@@ -1,6 +1,6 @@
 # Asia Neon - Theme for Omarchy
 
-Purple and cyan neon lights of Singapore at night (Gardens by the Bay, Marina Bay) on a deep violet-black background. The palette is extracted from my own photos, which are included as backgrounds.
+Purple and cyan neon lights of Singapore at night taken by myself (Gardens by the Bay, Marina Bay) on a deep violet-black background. The palette is extracted from my own photos, which are included as backgrounds.
 
 ## Install
 
@@ -16,7 +16,6 @@ Or `SUPER + ALT + SPACE` → Install → Style → Theme → paste the URL.
 
 ## Backgrounds
 
-![](backgrounds/asia-neon-supertrees.jpg)
 ![](backgrounds/asia-neon-marina-bay.jpg)
 
 ## Obsidian
